@@ -136,3 +136,4 @@ chromedriver
 *.xlsx
 
 *.numbers
+.DS_Store
