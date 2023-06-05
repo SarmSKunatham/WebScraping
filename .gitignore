@@ -137,3 +137,4 @@ chromedriver
 
 *.numbers
 .DS_Store
+.vscode
